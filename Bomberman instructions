@@ -1,0 +1,9 @@
+--Bomberman--
+Arrow keys or WASD to move
+
+If you like arrow keys, use space to place a bomb, C to place a mine, and V to place a quickbomb.
+If you like WASD, use 1 to select bombs, 2 to select mines, and 3 to select quickbombs. Use E to place, and F to quick cycle.
+
+--Bomberman editor--
+Arrow keys to move.
+Use , and . to change the type of block you are on. S to save. The "What number level is this?" popup is aking what level it is. For example, if you put 2, it will be the second level.
